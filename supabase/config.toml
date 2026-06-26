@@ -1,0 +1,12 @@
+project_id = "trdacrdlzbxnozrnpnpz"
+
+[auth]
+enabled = true
+# Required when verifying OTP codes (email type)
+site_url = "clad://"
+additional_redirect_urls = ["clad://*", "exp://*"]
+
+[auth.email]
+enable_signup = true
+otp_length = 6
+otp_expiry = 3600
