@@ -10,6 +10,7 @@ import {
   Platform,
   Alert,
 } from 'react-native';
+import * as Linking from 'expo-linking';
 import { supabase } from '../lib/supabase';
 
 export default function AuthScreen() {
@@ -24,7 +25,14 @@ export default function AuthScreen() {
       return;
     }
     setLoading(true);
-    const { error } = await supabase.auth.signInWithOtp({ email: trimmed });
+    // Linking.createURL returns the correct scheme for the current environment:
+    // - Expo Go dev: exp://192.168.x.x:8081
+    // - Standalone: clad://
+    const redirectTo = Linking.createURL('/auth/callback');
+    const { error } = await supabase.auth.signInWithOtp({
+      email: trimmed,
+      options: { emailRedirectTo: redirectTo },
+    });
     setLoading(false);
     if (error) {
       Alert.alert('Error', error.message);
@@ -38,7 +46,7 @@ export default function AuthScreen() {
       <View style={styles.container}>
         <Text style={styles.title}>Check your email</Text>
         <Text style={styles.subtitle}>
-          We sent a magic link to {email.trim()}. Tap it to sign in.
+          We sent a magic link to {email.trim()}.{'\n'}Tap it to open Clad — make sure Expo Go is open first.
         </Text>
         <TouchableOpacity style={styles.linkBtn} onPress={() => setSent(false)}>
           <Text style={styles.linkBtnText}>Use a different email</Text>
