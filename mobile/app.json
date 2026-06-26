@@ -3,6 +3,7 @@
     "name": "Clad",
     "slug": "clad",
     "version": "1.0.0",
+    "scheme": "clad",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
