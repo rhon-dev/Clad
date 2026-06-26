@@ -2,6 +2,15 @@
 
 ## Architecture decisions
 
+### Auth: OTP code instead of magic link
+Originally specced as magic-link email auth. Switched to **6-digit OTP code entry** because magic links are unreliable in iOS Expo Go — Safari refuses to auto-launch a custom scheme (`exp://`/`clad://`) from a redirect, and Mail's in-app webview mangles bridge pages. OTP keeps the entire flow inside the app (no browser, no deep link), which is device-independent. `signInWithOtp` (no `emailRedirectTo`) + `verifyOtp`.
+
+Showing the code requires editing the email template (`{{ .Token }}`), which the Supabase free tier blocks with the default mailer. So **custom SMTP via Resend** is configured. SMTP password is read from the `SMTP_PASSWORD` env var at `config push` time — never committed.
+
+**Production gaps from this choice:**
+- Sender is `onboarding@resend.dev` (Resend sandbox), which only delivers to the account's own signup email. For real users, verify a domain in Resend and set `admin_email` to a `@yourdomain` sender in [config.toml](supabase/config.toml).
+- The unused `auth-redirect` Edge Function (the abandoned magic-link bridge) can be deleted: `supabase functions delete auth-redirect`.
+
 ### Supabase anon key in client
 The Supabase **anon** key is embedded in the RN source file. This is intentional and safe:
 - The anon key is designed to be public; it does not grant elevated permissions.

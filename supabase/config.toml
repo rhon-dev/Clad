@@ -2,11 +2,27 @@ project_id = "trdacrdlzbxnozrnpnpz"
 
 [auth]
 enabled = true
-# Required when verifying OTP codes (email type)
 site_url = "clad://"
 additional_redirect_urls = ["clad://*", "exp://*"]
 
 [auth.email]
 enable_signup = true
+# Send a 6-digit OTP code instead of a magic link
 otp_length = 6
 otp_expiry = 3600
+
+[auth.email.template.magic_link]
+subject = "Your Clad sign-in code"
+content_path = "./supabase/templates/magic_link.html"
+
+# Custom SMTP (Resend). API key is read from the SMTP_PASSWORD env var so it is
+# never committed. Sender defaults to Resend's sandbox address, which can email
+# the account you signed up with — sufficient for dev.
+[auth.email.smtp]
+enabled = true
+host = "smtp.resend.com"
+port = 465
+user = "resend"
+pass = "env(SMTP_PASSWORD)"
+admin_email = "onboarding@resend.dev"
+sender_name = "Clad"
