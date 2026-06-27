@@ -10,7 +10,21 @@ import {
   Platform,
   Alert,
 } from 'react-native';
+import { AuthError } from '@supabase/supabase-js';
 import { supabase } from '../lib/supabase';
+
+// Surface everything the client actually receives from Supabase: HTTP status,
+// error code, and message. NOTE: the true upstream cause (e.g. an SMTP provider
+// rejection like Resend's 403 "can only send to your own email address") is NOT
+// returned to the client — Supabase strips it to a generic `unexpected_failure`
+// over the wire. The full reason is only in Dashboard → Logs → Auth Logs.
+function formatAuthError(error: AuthError): string {
+  const parts: string[] = [];
+  if (typeof error.status === 'number') parts.push(`HTTP ${error.status}`);
+  if (error.code) parts.push(error.code);
+  parts.push(error.message);
+  return parts.join(' · ');
+}
 
 export default function AuthScreen() {
   const [email, setEmail] = useState('');
@@ -29,7 +43,7 @@ export default function AuthScreen() {
     const { error } = await supabase.auth.signInWithOtp({ email: trimmed });
     setLoading(false);
     if (error) {
-      Alert.alert('Error', error.message);
+      Alert.alert('Could not send code', formatAuthError(error));
     } else {
       setSent(true);
     }
@@ -49,7 +63,7 @@ export default function AuthScreen() {
     });
     setLoading(false);
     if (error) {
-      Alert.alert('Error', error.message);
+      Alert.alert('Could not verify code', formatAuthError(error));
     }
     // On success, onAuthStateChange in App.tsx flips the session and navigates.
   }
