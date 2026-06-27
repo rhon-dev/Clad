@@ -1,0 +1,13 @@
+/Users/ahronjanl.rafaelahron.0804icloudcom/Downloads/Clad/DECISIONS.md
+/Users/ahronjanl.rafaelahron.0804icloudcom/Downloads/Clad/README.md
+/Users/ahronjanl.rafaelahron.0804icloudcom/Downloads/Clad/mobile/.expo/README.md
+/Users/ahronjanl.rafaelahron.0804icloudcom/Downloads/Clad/mobile/AGENTS.md
+/Users/ahronjanl.rafaelahron.0804icloudcom/Downloads/Clad/mobile/CLAUDE.md
+/Users/ahronjanl.rafaelahron.0804icloudcom/Downloads/Clad/supabase/templates/magic_link.html
+/Users/ahronjanl.rafaelahron.0804icloudcom/Downloads/Clad/mobile/.expo/web/cache/production/images/favicon/favicon-a4e030697a7571b3e95d31860e4da55d2f98e5e861e2b55e414f45a8556828ba-contain-transparent/favicon-48.png
+/Users/ahronjanl.rafaelahron.0804icloudcom/Downloads/Clad/mobile/assets/android-icon-background.png
+/Users/ahronjanl.rafaelahron.0804icloudcom/Downloads/Clad/mobile/assets/android-icon-foreground.png
+/Users/ahronjanl.rafaelahron.0804icloudcom/Downloads/Clad/mobile/assets/android-icon-monochrome.png
+/Users/ahronjanl.rafaelahron.0804icloudcom/Downloads/Clad/mobile/assets/favicon.png
+/Users/ahronjanl.rafaelahron.0804icloudcom/Downloads/Clad/mobile/assets/icon.png
+/Users/ahronjanl.rafaelahron.0804icloudcom/Downloads/Clad/mobile/assets/splash-icon.png

@@ -1,0 +1,2416 @@
+{
+  "nodes": [
+    {
+      "id": "mobile_app_tsx_mobile_app",
+      "label": "App.tsx",
+      "file_type": "code",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_stack",
+      "label": "Stack",
+      "file_type": "code",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L16",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_tab",
+      "label": "Tab",
+      "file_type": "code",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_maintabs",
+      "label": "MainTabs()",
+      "file_type": "code",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_handledeeplink",
+      "label": "handleDeepLink()",
+      "file_type": "code",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L45",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_app",
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L60",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_json_mobile_app",
+      "label": "app.json",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_expo",
+      "label": "expo",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L2",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_expo_name",
+      "label": "name",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L3",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_expo_slug",
+      "label": "slug",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_expo_version",
+      "label": "version",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_expo_scheme",
+      "label": "scheme",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L6",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_expo_orientation",
+      "label": "orientation",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_expo_icon",
+      "label": "icon",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L8",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_expo_userinterfacestyle",
+      "label": "userInterfaceStyle",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L9",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_expo_ios",
+      "label": "ios",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L10",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_ios_supportstablet",
+      "label": "supportsTablet",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L11",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_ios_bundleidentifier",
+      "label": "bundleIdentifier",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_ios_infoplist",
+      "label": "infoPlist",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_infoplist_nscamerausagedescription",
+      "label": "NSCameraUsageDescription",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_infoplist_nsphotolibraryusagedescription",
+      "label": "NSPhotoLibraryUsageDescription",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L15",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_infoplist_nslocationwheninuseusagedescription",
+      "label": "NSLocationWhenInUseUsageDescription",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L16",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_expo_android",
+      "label": "android",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_android_adaptiveicon",
+      "label": "adaptiveIcon",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L20",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_adaptiveicon_backgroundcolor",
+      "label": "backgroundColor",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L21",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_adaptiveicon_foregroundimage",
+      "label": "foregroundImage",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L22",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_adaptiveicon_backgroundimage",
+      "label": "backgroundImage",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L23",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_adaptiveicon_monochromeimage",
+      "label": "monochromeImage",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L24",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_android_predictivebackgestureenabled",
+      "label": "predictiveBackGestureEnabled",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L26",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_android_package",
+      "label": "package",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L27",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_android_permissions",
+      "label": "permissions",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L28",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_expo_web",
+      "label": "web",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L35",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_web_favicon",
+      "label": "favicon",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L36",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_app_expo_plugins",
+      "label": "plugins",
+      "file_type": "code",
+      "source_file": "mobile/app.json",
+      "source_location": "L38",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_index",
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "mobile/index.ts",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package",
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_name",
+      "label": "name",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L2",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_version",
+      "label": "version",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L3",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_main",
+      "label": "main",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies",
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_react_navigation_bottom_tabs",
+      "label": "@react-navigation/bottom-tabs",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L6",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_react_navigation_native",
+      "label": "@react-navigation/native",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_react_navigation_native_stack",
+      "label": "@react-navigation/native-stack",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L8",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_supabase_supabase_js",
+      "label": "@supabase/supabase-js",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L9",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_expo",
+      "label": "expo",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L10",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_expo_image_manipulator",
+      "label": "expo-image-manipulator",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L11",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_expo_image_picker",
+      "label": "expo-image-picker",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_expo_linking",
+      "label": "expo-linking",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_expo_location",
+      "label": "expo-location",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_expo_status_bar",
+      "label": "expo-status-bar",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L15",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_react",
+      "label": "react",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L16",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_react_native",
+      "label": "react-native",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_react_native_gesture_handler",
+      "label": "react-native-gesture-handler",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L18",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_react_native_reanimated",
+      "label": "react-native-reanimated",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_react_native_safe_area_context",
+      "label": "react-native-safe-area-context",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L20",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_dependencies_react_native_screens",
+      "label": "react-native-screens",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L21",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_devdependencies",
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L23",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_devdependencies_types_react",
+      "label": "@types/react",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L24",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_devdependencies_typescript",
+      "label": "typescript",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L25",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_scripts",
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L27",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_scripts_start",
+      "label": "start",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L28",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_scripts_android",
+      "label": "android",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L29",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_scripts_ios",
+      "label": "ios",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L30",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_scripts_web",
+      "label": "web",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L31",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_package_private",
+      "label": "private",
+      "file_type": "code",
+      "source_file": "mobile/package.json",
+      "source_location": "L33",
+      "_origin": "ast"
+    },
+    {
+      "id": "lib_supabase",
+      "label": "supabase.ts",
+      "file_type": "code",
+      "source_file": "mobile/src/lib/supabase.ts",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "lib_supabase_supabase",
+      "label": "supabase",
+      "file_type": "code",
+      "source_file": "mobile/src/lib/supabase.ts",
+      "source_location": "L8",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_authscreen",
+      "label": "AuthScreen.tsx",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/AuthScreen.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_authscreen_formatautherror",
+      "label": "formatAuthError()",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/AuthScreen.tsx",
+      "source_location": "L21",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_authscreen_authscreen",
+      "label": "AuthScreen()",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/AuthScreen.tsx",
+      "source_location": "L29",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_authscreen_styles",
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/AuthScreen.tsx",
+      "source_location": "L144",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_recommendscreen",
+      "label": "RecommendScreen.tsx",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_recommendscreen_occasions",
+      "label": "OCCASIONS",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_recommendscreen_wmo_codes",
+      "label": "WMO_CODES",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_recommendscreen_recommendscreen",
+      "label": "RecommendScreen()",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L30",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_recommendscreen_styles",
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L263",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_uploadscreen",
+      "label": "UploadScreen.tsx",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_uploadscreen_categories",
+      "label": "CATEGORIES",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_uploadscreen_analysisresult",
+      "label": "AnalysisResult",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L22",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_uploadscreen_phase",
+      "label": "Phase",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L28",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_uploadscreen_uploadscreen",
+      "label": "UploadScreen()",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L30",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_uploadscreen_styles",
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L284",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_wardrobescreen",
+      "label": "WardrobeScreen.tsx",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_wardrobescreen_nav",
+      "label": "Nav",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_wardrobescreen_wardrobescreen",
+      "label": "WardrobeScreen()",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "screens_wardrobescreen_styles",
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L110",
+      "_origin": "ast"
+    },
+    {
+      "id": "types_index",
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "mobile/src/types/index.ts",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "types_index_category",
+      "label": "Category",
+      "file_type": "code",
+      "source_file": "mobile/src/types/index.ts",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "types_index_occasion",
+      "label": "Occasion",
+      "file_type": "code",
+      "source_file": "mobile/src/types/index.ts",
+      "source_location": "L2",
+      "_origin": "ast"
+    },
+    {
+      "id": "types_index_clothingitem",
+      "label": "ClothingItem",
+      "file_type": "code",
+      "source_file": "mobile/src/types/index.ts",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "types_index_weatherdata",
+      "label": "WeatherData",
+      "file_type": "code",
+      "source_file": "mobile/src/types/index.ts",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "types_index_outfitrecommendation",
+      "label": "OutfitRecommendation",
+      "file_type": "code",
+      "source_file": "mobile/src/types/index.ts",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "types_index_rootstackparamlist",
+      "label": "RootStackParamList",
+      "file_type": "code",
+      "source_file": "mobile/src/types/index.ts",
+      "source_location": "L24",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_tsconfig",
+      "label": "tsconfig.json",
+      "file_type": "code",
+      "source_file": "mobile/tsconfig.json",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_tsconfig_extends",
+      "label": "extends",
+      "file_type": "code",
+      "source_file": "mobile/tsconfig.json",
+      "source_location": "L2",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "file_type": "code",
+      "source_file": "mobile/tsconfig.json",
+      "source_location": "L3",
+      "_origin": "ast"
+    },
+    {
+      "id": "mobile_tsconfig_compileroptions_strict",
+      "label": "strict",
+      "file_type": "code",
+      "source_file": "mobile/tsconfig.json",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "analyze_clothing_index",
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "supabase/functions/analyze-clothing/index.ts",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "analyze_clothing_index_corsheaders",
+      "label": "corsHeaders",
+      "file_type": "code",
+      "source_file": "supabase/functions/analyze-clothing/index.ts",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "auth_redirect_index",
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "supabase/functions/auth-redirect/index.ts",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "recommend_outfit_index",
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "supabase/functions/recommend-outfit/index.ts",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "recommend_outfit_index_corsheaders",
+      "label": "corsHeaders",
+      "file_type": "code",
+      "source_file": "supabase/functions/recommend-outfit/index.ts",
+      "source_location": "L5",
+      "_origin": "ast"
+    }
+  ],
+  "edges": [
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "react_native_gesture_handler",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "native",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "native_stack",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "bottom_tabs",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "react_native",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "supabase_js",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "expo_linking",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "lib_supabase",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "lib_supabase_supabase",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "screens_authscreen",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "screens_wardrobescreen",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "screens_uploadscreen",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "screens_recommendscreen",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "mobile_app_stack",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "mobile_app_tab",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "mobile_app_maintabs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "mobile_app_handledeeplink",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_tsx_mobile_app",
+      "target": "mobile_app_app",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/App.tsx",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_json_mobile_app",
+      "target": "mobile_app_expo",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo",
+      "target": "mobile_app_expo_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo",
+      "target": "mobile_app_expo_slug",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo",
+      "target": "mobile_app_expo_version",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo",
+      "target": "mobile_app_expo_scheme",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo",
+      "target": "mobile_app_expo_orientation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo",
+      "target": "mobile_app_expo_icon",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo",
+      "target": "mobile_app_expo_userinterfacestyle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo",
+      "target": "mobile_app_expo_ios",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo_ios",
+      "target": "mobile_app_ios_supportstablet",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo_ios",
+      "target": "mobile_app_ios_bundleidentifier",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo_ios",
+      "target": "mobile_app_ios_infoplist",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_ios_infoplist",
+      "target": "mobile_app_infoplist_nscamerausagedescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_ios_infoplist",
+      "target": "mobile_app_infoplist_nsphotolibraryusagedescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_ios_infoplist",
+      "target": "mobile_app_infoplist_nslocationwheninuseusagedescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo",
+      "target": "mobile_app_expo_android",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo_android",
+      "target": "mobile_app_android_adaptiveicon",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_android_adaptiveicon",
+      "target": "mobile_app_adaptiveicon_backgroundcolor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_android_adaptiveicon",
+      "target": "mobile_app_adaptiveicon_foregroundimage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_android_adaptiveicon",
+      "target": "mobile_app_adaptiveicon_backgroundimage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_android_adaptiveicon",
+      "target": "mobile_app_adaptiveicon_monochromeimage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo_android",
+      "target": "mobile_app_android_predictivebackgestureenabled",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo_android",
+      "target": "mobile_app_android_package",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo_android",
+      "target": "mobile_app_android_permissions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_android_permissions",
+      "target": "ref_android_permission_camera",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_app_android_permissions",
+      "target": "ref_android_permission_read_media_images",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_app_android_permissions",
+      "target": "ref_android_permission_access_fine_location",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_app_android_permissions",
+      "target": "ref_android_permission_access_coarse_location",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_app_expo",
+      "target": "mobile_app_expo_web",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo_web",
+      "target": "mobile_app_web_favicon",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_app_expo",
+      "target": "mobile_app_expo_plugins",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/app.json",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_index",
+      "target": "expo",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/index.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_index",
+      "target": "mobile_app",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/index.ts",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package",
+      "target": "mobile_package_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package",
+      "target": "mobile_package_version",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package",
+      "target": "mobile_package_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package",
+      "target": "mobile_package_dependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_react_navigation_bottom_tabs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_react_navigation_bottom_tabs",
+      "target": "react_navigation_bottom_tabs",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_react_navigation_native",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_react_navigation_native",
+      "target": "react_navigation_native",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_react_navigation_native_stack",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_react_navigation_native_stack",
+      "target": "react_navigation_native_stack",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_supabase_supabase_js",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_supabase_supabase_js",
+      "target": "supabase_supabase_js",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_expo",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_expo",
+      "target": "expo",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_expo_image_manipulator",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_expo_image_manipulator",
+      "target": "expo_image_manipulator",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_expo_image_picker",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_expo_image_picker",
+      "target": "expo_image_picker",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_expo_linking",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_expo_linking",
+      "target": "expo_linking",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_expo_location",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_expo_location",
+      "target": "expo_location",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_expo_status_bar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_expo_status_bar",
+      "target": "expo_status_bar",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_react",
+      "target": "react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_react_native",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_react_native",
+      "target": "react_native",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_react_native_gesture_handler",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_react_native_gesture_handler",
+      "target": "react_native_gesture_handler",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_react_native_reanimated",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_react_native_reanimated",
+      "target": "react_native_reanimated",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_react_native_safe_area_context",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_react_native_safe_area_context",
+      "target": "react_native_safe_area_context",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_dependencies",
+      "target": "mobile_package_dependencies_react_native_screens",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_dependencies_react_native_screens",
+      "target": "react_native_screens",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package",
+      "target": "mobile_package_devdependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_devdependencies",
+      "target": "mobile_package_devdependencies_types_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_devdependencies_types_react",
+      "target": "types_react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package_devdependencies",
+      "target": "mobile_package_devdependencies_typescript",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_devdependencies_typescript",
+      "target": "typescript",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_package",
+      "target": "mobile_package_scripts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_scripts",
+      "target": "mobile_package_scripts_start",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_scripts",
+      "target": "mobile_package_scripts_android",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_scripts",
+      "target": "mobile_package_scripts_ios",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package_scripts",
+      "target": "mobile_package_scripts_web",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_package",
+      "target": "mobile_package_private",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/package.json",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "lib_supabase",
+      "target": "supabase_js",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/lib/supabase.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "lib_supabase",
+      "target": "lib_supabase_supabase",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/lib/supabase.ts",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_authscreen",
+      "target": "react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/AuthScreen.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_authscreen",
+      "target": "react_native",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/AuthScreen.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_authscreen",
+      "target": "supabase_js",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/AuthScreen.tsx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_authscreen",
+      "target": "lib_supabase",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/AuthScreen.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_authscreen",
+      "target": "lib_supabase_supabase",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/AuthScreen.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_authscreen",
+      "target": "screens_authscreen_formatautherror",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/AuthScreen.tsx",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_authscreen",
+      "target": "screens_authscreen_authscreen",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/AuthScreen.tsx",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_authscreen",
+      "target": "screens_authscreen_styles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/AuthScreen.tsx",
+      "source_location": "L144",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "react_native",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "expo_location",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "lib_supabase",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "lib_supabase_supabase",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "types_index",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "types_index_clothingitem",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "types_index_occasion",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "types_index_outfitrecommendation",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "types_index_weatherdata",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "screens_recommendscreen_occasions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "screens_recommendscreen_wmo_codes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "screens_recommendscreen_recommendscreen",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_recommendscreen",
+      "target": "screens_recommendscreen_styles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/RecommendScreen.tsx",
+      "source_location": "L263",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "react_native",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "expo_image_picker",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "expo_image_manipulator",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "native",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "lib_supabase",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "lib_supabase_supabase",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "types_index",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "types_index_category",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "types_index_clothingitem",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "screens_uploadscreen_categories",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "screens_uploadscreen_analysisresult",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "screens_uploadscreen_phase",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "screens_uploadscreen_uploadscreen",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_uploadscreen",
+      "target": "screens_uploadscreen_styles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/UploadScreen.tsx",
+      "source_location": "L284",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_wardrobescreen",
+      "target": "react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_wardrobescreen",
+      "target": "react_native",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_wardrobescreen",
+      "target": "native",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_wardrobescreen",
+      "target": "native_stack",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_wardrobescreen",
+      "target": "lib_supabase",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_wardrobescreen",
+      "target": "lib_supabase_supabase",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_wardrobescreen",
+      "target": "types_index",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_wardrobescreen",
+      "target": "types_index_clothingitem",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_wardrobescreen",
+      "target": "types_index_rootstackparamlist",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_wardrobescreen",
+      "target": "screens_wardrobescreen_nav",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_wardrobescreen",
+      "target": "screens_wardrobescreen_wardrobescreen",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "screens_wardrobescreen",
+      "target": "screens_wardrobescreen_styles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/screens/WardrobeScreen.tsx",
+      "source_location": "L110",
+      "weight": 1.0
+    },
+    {
+      "source": "types_index",
+      "target": "types_index_category",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/types/index.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "types_index",
+      "target": "types_index_occasion",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/types/index.ts",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "types_index",
+      "target": "types_index_clothingitem",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/types/index.ts",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "types_index",
+      "target": "types_index_weatherdata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/types/index.ts",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "types_index",
+      "target": "types_index_outfitrecommendation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/types/index.ts",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "types_index",
+      "target": "types_index_rootstackparamlist",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/src/types/index.ts",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_tsconfig",
+      "target": "mobile_tsconfig_extends",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/tsconfig.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_tsconfig",
+      "target": "ref_expo_tsconfig_base",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/tsconfig.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mobile_tsconfig",
+      "target": "mobile_tsconfig_compileroptions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/tsconfig.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile_tsconfig_compileroptions",
+      "target": "mobile_tsconfig_compileroptions_strict",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "mobile/tsconfig.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "analyze_clothing_index",
+      "target": "server_ts",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "supabase/functions/analyze-clothing/index.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "analyze_clothing_index",
+      "target": "generative_ai_0_21_0",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "supabase/functions/analyze-clothing/index.ts",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "analyze_clothing_index",
+      "target": "analyze_clothing_index_corsheaders",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "supabase/functions/analyze-clothing/index.ts",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "auth_redirect_index",
+      "target": "server_ts",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "supabase/functions/auth-redirect/index.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "recommend_outfit_index",
+      "target": "server_ts",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "supabase/functions/recommend-outfit/index.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "recommend_outfit_index",
+      "target": "supabase_js_2_39_0",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "supabase/functions/recommend-outfit/index.ts",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "recommend_outfit_index",
+      "target": "generative_ai_0_21_0",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "supabase/functions/recommend-outfit/index.ts",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "recommend_outfit_index",
+      "target": "recommend_outfit_index_corsheaders",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "supabase/functions/recommend-outfit/index.ts",
+      "source_location": "L5",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
